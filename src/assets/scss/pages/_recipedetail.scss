@@ -1,0 +1,16 @@
+.recipe-detail-wrapper {
+    padding: 50px;
+
+    .recipe-details {
+        display: flex;
+        justify-content: center;
+
+        .image {
+            margin-right: 30px;
+        }
+
+        .description {
+            width: 50%;
+        }
+    }
+}

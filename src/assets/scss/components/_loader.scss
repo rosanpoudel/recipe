@@ -1,0 +1,16 @@
+.loader {
+    background: rgba(0, 0, 0, 0.9);
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .spinner-border {
+        border-color: #fff;
+        border-right-color: transparent;
+    }
+}
